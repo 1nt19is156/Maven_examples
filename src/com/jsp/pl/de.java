@@ -3,7 +3,7 @@ package com.jsp.pl;
 public class de {
 
 	private String name;
-	private int id;
+	
 	public String getName() {
 		return name;
 	}
@@ -13,8 +13,6 @@ public class de {
 	public int getId() {
 		return id;
 	}
-	public void setId(int id) {
-		this.id = id;
-	}
+	
 	
 }
